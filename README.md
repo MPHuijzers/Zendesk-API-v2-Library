@@ -8,7 +8,7 @@ Currently working on finalizing my first alpha release of my simple CRUD and Sea
 
 To be continued..
 
-Currently implemented endpoints:
+### Currently implemented endpoints
 
 * Organizations
     * List all
@@ -25,3 +25,9 @@ Currently implemented endpoints:
     * Organizations
     * Users
     * Custom (Organizations, Users, Tickets, etc.)
+
+### To-do
+
+* a lot +
+* comments everywhere
+* better error handling
